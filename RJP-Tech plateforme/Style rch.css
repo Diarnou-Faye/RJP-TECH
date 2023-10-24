@@ -1,0 +1,32 @@
+/* styles.css */
+header {
+    background-color: #009900;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    background-color: #adb8ac;
+    color: #fff;
+    padding: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+#search-input {
+    width: 300px;
+    padding: 5px;
+}
+
+#search-results {
+    margin-top: 20px;
+}
+footer {
+    background-color: #009900;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
